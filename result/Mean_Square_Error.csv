@@ -1,0 +1,12 @@
+Time,model,para,well,MAE,RMSE,MAPE
+2023-10-18 21:20:06 109736,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =1  jk_mode =max,A,7.44,8.63,2.19
+2023-10-18 21:20:06 109736,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =1  jk_mode =max,A1,11.63,11.88,0.83
+2023-10-18 21:20:06 109736,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =1  jk_mode =max,A2,9.27,11.68,0.38
+Time,model,para,well,MAE,RMSE,MAPE
+2023-10-19 00:10:09 380148,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =50  jk_mode =max,A,1.98,2.46,0.34
+2023-10-19 00:10:09 380148,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =50  jk_mode =max,A1,1.62,1.81,0.12
+2023-10-19 00:10:09 380148,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =50  jk_mode =max,A2,2.45,3.08,0.08
+Time,model,para,well,MAE,RMSE,MAPE
+2023-10-19 09:33:07 664847,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =50  jk_mode =max,A,2.90,3.64,1.02
+2023-10-19 09:33:07 664847,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =50  jk_mode =max,A1,2.01,2.58,0.15
+2023-10-19 09:33:07 664847,<class 'drs2.STGNSNet'>,LR =0.005  Epoch =50  jk_mode =max,A2,2.92,3.68,0.08
